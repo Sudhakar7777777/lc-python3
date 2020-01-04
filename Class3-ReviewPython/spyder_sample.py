@@ -1,0 +1,1 @@
+﻿for xx in "Python":    print(xx)    mylist = [1,2,3,"aa","bb"]mylist.pop()xx = 12345yy = "Hello Python"print(yy)zz = yy.split(" ")for kk in range(10):    print(kk)
