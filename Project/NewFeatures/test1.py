@@ -9,4 +9,3 @@ def draw_line(direction: str) -> None:
         raise ValueError(f"invalid direction {direction!r}")
 
 draw_line("up")
-
